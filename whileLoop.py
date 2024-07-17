@@ -1,6 +1,6 @@
 while True:
 	# So first we create an infinite loop since true will always be true
-	print("Who tf are you?")
+	print("Who are you?")
 	# then we ask for the person's name
 	name = input()
 
@@ -17,6 +17,6 @@ while True:
 # the top
 		break 
 	else:
-		print("You done fucked up now")
-print("You lucky lil nigga") # this is the outside statement
+		print("You've messed up now")
+print("You're lucky") # this is the outside statement
 
